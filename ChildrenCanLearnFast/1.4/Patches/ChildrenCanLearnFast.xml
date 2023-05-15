@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+    <Operation Class="PatchOperationAdd">
+        <xpath>/Defs/GeneDef[defName = "Learning_Fast"]/statOffsets</xpath>
+        <value>
+            <LearningRateFactor>0.5</LearningRateFactor>
+        </value>
+    </Operation>
+
+    <Operation Class="PatchOperationAdd">
+        <xpath>/Defs/GeneDef[defName = "Learning_Slow"]/statFactors</xpath>
+        <value>
+            <LearningRateFactor>0.5</LearningRateFactor>
+        </value>
+    </Operation>
+</Patch>

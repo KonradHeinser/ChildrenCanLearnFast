@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Children Can Learn Fast</name>
+  <author>alite</author>
+  <packageId>ChildrenCanLearnFast.Mod</packageId>
+  <supportedVersions>
+    <li>1.4</li>
+  </supportedVersions>
+  
+  <description>
+Simple mod that makes it so children learning rate is affected by the slow study and quick study genes. Both have a 50% impact, similar to the skill learning rate
+
+[url=https://steamcommunity.com/id/alite/myworkshopfiles/?appid=294100]Easy link to all of my Rimworld mods[/url]
+[url=https://github.com/KonradHeinser/ChildrenCanLearnFast][img]https://i.imgur.com/kTkpTOE.png[/img][/url]
+[url=https://ko-fi.com/alite56114][img]https://i.imgur.com/Utx6OIH.png[/img][/url]
+  </description>
+</ModMetaData>
+
